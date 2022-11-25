@@ -8,8 +8,10 @@ public class Abc {
 			System.out.println("changes made by Prashant!! "+i);
 
 		}
-		System.out.println("Byeee");
-			
-	}
 
+		for (int i = 0; i <=5; i++) 
+		{
+			System.out.println("hello Pritam!!"+i);
+		}
+	}
 }
