@@ -8,6 +8,8 @@ public class Abc {
 			System.out.println("hello duniya!!"+i);
 
 		}
+		System.out.println("Byeee");
+			
 	}
 
 }
