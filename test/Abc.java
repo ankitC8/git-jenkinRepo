@@ -8,6 +8,11 @@ public class Abc {
 			System.out.println("hello duniya!!"+i);
 
 		}
+		for (int i = 0; i <=5; i++) 
+		{
+			System.out.println("hello Pritam!!"+i);
+
+		}
 	}
 
 }
