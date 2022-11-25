@@ -1,0 +1,16 @@
+pipeline {
+    agent any 
+    stages {
+        stage('Build') 
+        { 
+            steps {
+                 cho  "This is a build from morning star"
+                  }
+        }
+        stage('Test') 
+        { 
+            steps {
+                  echo  "This is a test from morning star"
+                }
+        }
+      }
